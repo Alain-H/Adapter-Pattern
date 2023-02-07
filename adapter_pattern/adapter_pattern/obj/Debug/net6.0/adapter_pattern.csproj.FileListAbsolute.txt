@@ -1,0 +1,15 @@
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\bin\Debug\net6.0\adapter_pattern.exe
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\bin\Debug\net6.0\adapter_pattern.deps.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\bin\Debug\net6.0\adapter_pattern.runtimeconfig.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\bin\Debug\net6.0\adapter_pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\bin\Debug\net6.0\ref\adapter_pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\bin\Debug\net6.0\adapter_pattern.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.csproj.AssemblyReference.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.AssemblyInfoInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.AssemblyInfo.cs
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.csproj.CoreCompileInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\ref\adapter_pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Adapter_Patter\adapter_pattern\adapter_pattern\obj\Debug\net6.0\adapter_pattern.genruntimeconfig.cache
